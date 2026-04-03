@@ -1,0 +1,61 @@
+📄 Conditions d'Utilisation (ToS) — Bot Nyanko
+Dernière mise à jour : 03/04/2026
+
+En ajoutant ou en utilisant le bot Nyanko, vous acceptez sans réserve les présentes conditions d'utilisation.
+
+1. Présentation
+Le bot Nyanko est développé et administré par nitatom. Il est fourni "en l'état", sans garantie de fonctionnement ininterrompu sur les serveurs où il est installé.
+
+2. Règles de conduite et Restrictions
+Pour garantir la stabilité de Nyanko, les actions suivantes sont strictement interdites :
+
+Abus technique : Tenter de faire planter le bot volontairement en envoyant des requêtes à répétition (spam de commandes/API).
+
+Accès non autorisé : Tenter d'utiliser le bot lorsqu'il est explicitement en phase de test ou de développement.
+
+Triche : Manipuler ou exploiter des failles pour fausser les scores des classements au sein des serveurs.
+
+Contournement : Tenter d'utiliser le bot si vous avez été banni de son usage par l'administrateur.
+
+3. Sanctions
+Tout manquement à ces règles peut entraîner un bannissement définitif de l'utilisateur ou des serveurs concernés de la base de données de Nyanko, sans préavis.
+
+4. Services Payants
+L'utilisation de Nyanko est gratuite. Aucun service payant n'est proposé à ce jour.
+
+🔐 Politique de Confidentialité — Bot Nyanko
+Dernière mise à jour : 03/04/2026
+
+La présente politique vous informe de la manière dont Nyanko traite vos données. Nous privilégions une collecte minimale et sécurisée.
+
+1. Données stockées de manière permanente
+Ces données sont conservées sur un serveur local sécurisé :
+
+Identifiants : ID utilisateur Discord, @nom_utilisateur, nom d'affichage global, nom d'affichage sur le serveur.
+
+Présence & Historique : Statut Discord, activité, date et heure précises de création du compte et d'arrivée sur les serveurs.
+
+État technique : État actuel du bot par rapport à l'utilisateur (progression, configuration au sein des différents serveurs).
+
+2. Données traitées de manière temporaire (Éphémères)
+Pour assurer ses fonctionnalités interactives, Nyanko traite les données suivantes :
+
+Contenu : Contenu des messages et pièces jointes envoyés sur les serveurs.
+
+Interactions : Clics sur les boutons, menus déroulants et formulaires.
+
+Conservation : Ces données ne sont pas stockées durablement. Elles sont traitées en mémoire vive pour répondre à l'action demandée, puis sont définitivement supprimées après quelques secondes ou minutes (selon l'état du réseau).
+
+3. Finalité du traitement
+Les données permanentes permettent la gestion des classements et des statistiques sur l'ensemble des serveurs. Les données temporaires sont nécessaires au traitement immédiat des commandes et des interactions de l'utilisateur.
+
+4. Partage et Sécurité
+Toutes les données sont stockées sur un serveur local. Aucune donnée n'est vendue ou partagée avec des tiers.
+
+5. Vos droits (Suppression et Accès)
+Vous disposez d'un droit d'accès et de suppression de vos informations.
+Procédure de suppression :
+
+Quitter les serveurs Discord où le bot est présent.
+
+Contacter le responsable (@nitatom) par message direct sur Discord pour demander la purge de vos identifiants et statistiques de la base de données.
