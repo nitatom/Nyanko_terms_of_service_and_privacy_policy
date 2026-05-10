@@ -1,5 +1,5 @@
 📄 Conditions d'Utilisation (ToS) — Bot Nyanko
-Dernière mise à jour : 03/04/2026
+Dernière mise à jour : 10/05/2026
 
 En ajoutant ou en utilisant le bot Nyanko, vous acceptez sans réserve les présentes conditions d'utilisation.
 
@@ -13,18 +13,18 @@ Abus technique : Tenter de faire planter le bot volontairement en envoyant des r
 
 Accès non autorisé : Tenter d'utiliser le bot lorsqu'il est explicitement en phase de test ou de développement.
 
-Triche : Manipuler ou exploiter des failles pour fausser les scores des classements au sein des serveurs.
+Triche et Altération : Manipuler le bot, exploiter des failles ou modifier des données et des valeurs de manière non prévue afin de fausser les classements, les statistiques ou le fonctionnement normal du système au sein des serveurs.
 
 Contournement : Tenter d'utiliser le bot si vous avez été banni de son usage par l'administrateur.
 
 3. Sanctions
-Tout manquement à ces règles peut entraîner un bannissement définitif de l'utilisateur ou des serveurs concernés de la base de données de Nyanko, sans préavis.
+Tout manquement à ces règles peut entraîner un bannissement définitif de l'utilisateur de l'utilisation ou des serveurs concernés de la base de données de Nyanko, sans préavis.
 
 4. Services Payants
 L'utilisation de Nyanko est gratuite. Aucun service payant n'est proposé à ce jour.
 
 🔐 Politique de Confidentialité — Bot Nyanko
-Dernière mise à jour : 03/04/2026
+Dernière mise à jour : 10/05/2026
 
 La présente politique vous informe de la manière dont Nyanko traite vos données. Nous privilégions une collecte minimale et sécurisée.
 
@@ -35,7 +35,9 @@ Identifiants : ID utilisateur Discord, @nom_utilisateur, nom d'affichage global,
 
 Présence & Historique : Statut Discord, activité, date et heure précises de création du compte et d'arrivée sur les serveurs.
 
-État technique : État actuel du bot par rapport à l'utilisateur (progression, configuration au sein des différents serveurs).
+Données du /tabloblabla : votre série actuelle et votre meilleur série.
+
+Données du /interact : Niveaux d'expérience, Nyanko coin, humeur de Nyanko envers l'utilisateur, objets stockés dans l'inventaire ainsi que leurs nombre.
 
 2. Données traitées de manière temporaire (Éphémères)
 Pour assurer ses fonctionnalités interactives, Nyanko traite les données suivantes :
