@@ -24,7 +24,7 @@ Tout manquement à ces règles peut entraîner un bannissement définitif de l'u
 L'utilisation de Nyanko est gratuite. Aucun service payant n'est proposé à ce jour.
 
 🔐 Politique de Confidentialité — Bot Nyanko
-Dernière mise à jour : 10/05/2026
+Dernière mise à jour : 15/08/2026
 
 La présente politique vous informe de la manière dont Nyanko traite vos données. Nous privilégions une collecte minimale et sécurisée.
 
@@ -37,7 +37,7 @@ Présence & Historique : Statut Discord, activité, date et heure précises de c
 
 Données du /tabloblabla : votre série actuelle et votre meilleur série.
 
-Données du /interact : Niveaux d'expérience, Nyanko coin, humeur de Nyanko envers l'utilisateur, objets stockés dans l'inventaire ainsi que leurs nombre.
+Données du /interact : Niveau actuel, Points d'xp, Si a Nyanko+, Nyanko coin, humeur de Nyanko envers l'utilisateur, objets stockés dans l'inventaire ainsi que leurs nombre.
 
 2. Données traitées de manière temporaire (Éphémères)
 Pour assurer ses fonctionnalités interactives, Nyanko traite les données suivantes :
@@ -57,7 +57,5 @@ Toutes les données sont stockées sur un serveur local. Aucune donnée n'est ve
 5. Vos droits (Suppression et Accès)
 Vous disposez d'un droit d'accès et de suppression de vos informations.
 Procédure de suppression :
-
-Quitter les serveurs Discord où le bot est présent.
-
-Contacter le responsable (@nitatom) par message direct sur Discord pour demander la purge de vos identifiants et statistiques de la base de données.
+- Quitter les serveurs Discord où le bot est présent.
+- Contacter le responsable (@nitatom) par message direct sur Discord pour demander la suppression de vos informations et données de la base de données.
